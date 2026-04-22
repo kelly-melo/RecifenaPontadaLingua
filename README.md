@@ -149,16 +149,15 @@ O backlog foi organizado com base na prioridade das funcionalidades:
 * Histórico de partidas
 * Feedback de desempenho
 
-📸 **Print do backlog:** *(adicionar imagem)*
+📸 **Print do backlog:** https://files.fm/u/k9ud3cqvdc
 
 ---
 
 ## 📊 Board do Projeto
 
-📎 **Link:**
-[https://www.notion.so/33d7ce26612080c097c2df14dc4f5c91?v=33d7ce266120801ab784000c67441be4&source=copy_link](https://www.notion.so/33d7ce26612080c097c2df14dc4f5c91?v=33d7ce266120801ab784000c67441be4&source=copy_link)
+📎 **Link:** https://www.notion.so/33d7ce26612080c097c2df14dc4f5c91?v=33d7ce266120801ab784000c67441be4&source=copy_link
 
-📸 **Print do board:** *(adicionar imagem)*
+📸 **Print do board:** https://files.fm/u/fjgdnpx6uk
 
 ---
 
